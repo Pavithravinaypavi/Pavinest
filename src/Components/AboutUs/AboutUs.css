@@ -1,0 +1,19 @@
+h4{
+    text-align: left;
+}
+
+.container-heading{
+    margin-top: 50px;
+    text-align: left;
+}
+
+.mycontent{
+    width: 20em;
+    text-align: left;
+    color: black;
+}
+
+.bg{
+    background-image: linear-gradient(to top, skyblue,white);
+    padding-left: 5em;
+}

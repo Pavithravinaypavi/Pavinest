@@ -1,0 +1,31 @@
+.carousel-caption {
+    position: absolute;
+    top: 1.25rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+
+.absolute-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.carousel-caption h1 {
+    display:table-cell;
+    vertical-align: middle;
+    text-align:center;
+}
+
+.carousel-inner {
+    position:relative;
+}
+
+h1{
+    font-size: 50px;
+    font-family: fantasy;
+}
